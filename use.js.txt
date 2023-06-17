@@ -12,3 +12,5 @@ add from login
 我是仓库修改
  
 add-66666-1111111
+
+remote-66666
